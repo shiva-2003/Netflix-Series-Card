@@ -4,7 +4,7 @@ const SeriesCard = (props) => {
   const btn_style = {
     padding: "0.8rem 1.2rem",
     border: "none",
-    backgroundColor:`${rating>=8.5?"lightgreen":"Pink"}`,
+    backgroundColor:`${rating>=8.5?"lightgreen":"burlywood"}`,
     borderRadius: "2px",
     fontSize: "1.5rem",
     fontWeight: "400",

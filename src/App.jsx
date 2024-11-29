@@ -11,7 +11,7 @@ export const App = () => {
     <section className="container">
       <h1 className="card-heading">This is top10 Best Series List</h1>
       <NetflixSeries/>
-      <EventHandle/>
+      {/* <EventHandle/> */}
       {/* <States/> */}
       {/* <DerivedStates/> */}
       {/* <LiftStateUp/> */}

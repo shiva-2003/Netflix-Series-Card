@@ -1,0 +1,32 @@
+.card-heading{
+     font-size:x-large;
+     margin-bottom: 4rem;
+}
+
+.cards{
+     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;     
+}
+
+
+img{
+     width: 100%;
+}
+
+.card-contents{
+     padding: 3rem 1.3rem;
+     font-size: 1.4rem;
+     display: flex;
+     flex-direction: column;
+     gap: 1.3rem;
+}
+
+.average{
+     background-color: burlywood;
+}
+.superhit{
+     background-color: lightgreen;
+}
+.rating{
+     padding: 0.6rem;
+     border-radius: 3rem;
+}
